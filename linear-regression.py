@@ -1,4 +1,6 @@
 #Linear Regression Model
+# Open https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb for Jupyter Notebook and run the following code 
+
 import matplotlib.pyplot as plt
 from scipy import stats
 
